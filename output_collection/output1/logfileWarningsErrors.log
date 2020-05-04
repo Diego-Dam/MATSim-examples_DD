@@ -1,0 +1,19 @@
+2020-04-27 19:24:03,898  WARN PreProcessEuclidean:59 There are links with stored length smaller than their Euclidean distance in this network. Thus, A* cannot guarantee to calculate the least-cost paths between two nodes.
+2020-04-27 19:24:03,933  WARN PreProcessEuclidean:59 There are links with stored length smaller than their Euclidean distance in this network. Thus, A* cannot guarantee to calculate the least-cost paths between two nodes.
+2020-04-27 19:24:03,966  WARN PrepareForSimImpl:191 'usePersonIdForMissingVehicleId' is deprecated. It will be removed soon.
+2020-04-27 19:24:04,009  WARN ObjectAttributesConverter:75 No AttributeConverter found for class java.util.HashMap. Not all attribute values can be converted.
+2020-04-27 19:24:04,113  WARN QueueWithBuffer:387 Link 1 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:04,116  WARN QueueWithBuffer:387 Link 20 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:04,116  WARN QueueWithBuffer:387 Link 21 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:04,116  WARN QueueWithBuffer:387 Link 22 too small: enlarge storage capacity from: 4666.666666666667 Vehicles to: 12598.99208063355 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:04,117  WARN QueueWithBuffer:387 Link 23 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:06,482  WARN ObjectAttributesConverter:75 No AttributeConverter found for class java.util.HashMap. Not all attribute values can be converted.
+2020-04-27 19:24:06,506  WARN QueueWithBuffer:387 Link 1 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:06,506  WARN QueueWithBuffer:387 Link 20 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:06,506  WARN QueueWithBuffer:387 Link 21 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:06,507  WARN QueueWithBuffer:387 Link 22 too small: enlarge storage capacity from: 4666.666666666667 Vehicles to: 12598.99208063355 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:06,507  WARN QueueWithBuffer:387 Link 23 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:08,347  WARN QueueWithBuffer:387 Link 1 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2020-04-27 19:24:08,348  WARN QueueWithBuffer:390 Additional warnings of this type are suppressed.
+2020-04-27 19:24:17,550  WARN ObjectAttributesConverter:75 No AttributeConverter found for class java.util.HashMap. Not all attribute values can be converted.
+2020-04-27 19:24:18,697  WARN ObjectAttributesConverter:75 No AttributeConverter found for class java.util.HashMap. Not all attribute values can be converted.
