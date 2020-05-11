@@ -56,7 +56,7 @@ public class RunMatsim_2 {
 		Scenario scenario = ScenarioUtils.loadScenario(config) ;
 
 		Controler controler = new Controler( scenario ) ;
-		controler.addOverridingModule( new OTFVisLiveModule() ) ;
+		// controler.addOverridingModule( new OTFVisLiveModule() ) ;
 		controler.run();
 		// possibly modify controler here
 
